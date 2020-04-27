@@ -1,2 +1,2 @@
-# Java_console_apps_w1_april
-Some sample Java mini apps April 2020
+# Java_Mini_Apps_Presentation_workshop1_April_2020
+Kilka prostych przykładów programów konsolowych Java.
